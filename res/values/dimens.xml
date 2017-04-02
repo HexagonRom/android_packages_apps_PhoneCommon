@@ -21,7 +21,7 @@
     <dimen name="dialpad_key_letters_size">12sp</dimen>
     <dimen name="dialpad_key_pound_size">23sp</dimen>
     <dimen name="dialpad_key_star_size">36sp</dimen>
-    <dimen name="dialpad_key_height">64dp</dimen>
+    <dimen name="dialpad_key_height">74dp</dimen>
     <dimen name="dialpad_key_number_margin_bottom">@dimen/dialpad_key_number_default_margin_bottom</dimen>
     <dimen name="dialpad_key_number_default_margin_bottom">3dp</dimen>
     <!-- Zero key should have less space between self and text because "+" is smaller -->
@@ -32,7 +32,7 @@
     <dimen name="dialpad_horizontal_padding">5dp</dimen>
     <dimen name="dialpad_digits_text_size">34sp</dimen>
     <dimen name="dialpad_digits_text_min_size">24sp</dimen>
-    <dimen name="dialpad_digits_height">60dp</dimen>
+    <dimen name="dialpad_digits_height">64dp</dimen>
     <!-- Provide adjustable dimensions so that different apps can use different dialpad sizes. -->
     <dimen name="dialpad_digits_adjustable_text_size">@dimen/dialpad_digits_text_size</dimen>
     <dimen name="dialpad_digits_adjustable_height">@dimen/dialpad_digits_height</dimen>
